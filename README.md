@@ -1,4 +1,4 @@
-### Welcome 👋
+## Welcome 👋
 
 
 I am Ahaan Rajesh, currently pursuing my Master's degree majoring in Computer Science from [The Univesity of Texas at Arlington](https://www.uta.edu/). I am a tech enthusiast and  am always open to collaborating on projects and innovative/disruptive ideas. Feel free to go through my projects and connect with me here:
