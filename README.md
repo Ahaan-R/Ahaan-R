@@ -1,7 +1,11 @@
 ### Welcome 👋
 
 
-I am Ahaan Rajesh, currently pursuing my Master's degree majoring in Computer Science from [The Univesity of Texas at Arlington](https://www.uta.edu/). I am a tech enthusiast and  am always open to collaborating on projects and innovative/disruptive ideas. Feel free to go through my projects and connect with me.
+I am Ahaan Rajesh, currently pursuing my Master's degree majoring in Computer Science from [The Univesity of Texas at Arlington](https://www.uta.edu/). I am a tech enthusiast and  am always open to collaborating on projects and innovative/disruptive ideas. Feel free to go through my projects and connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-AhaanR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahaanr/)](https://www.linkedin.com/in/ahaanr/)
+[![Gmail Badge](https://img.shields.io/badge/-ahaanrajesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahaanrajesh@gmail.com)](mailto:ahaanrajesh@gmail.com)
+
 
 
 
