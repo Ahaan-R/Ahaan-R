@@ -6,9 +6,11 @@ I am Ahaan Rajesh, currently pursuing my Master's degree majoring in Computer Sc
 [![Linkedin Badge](https://img.shields.io/badge/-AhaanR-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahaanr/)](https://www.linkedin.com/in/ahaanr/)
 [![Gmail Badge](https://img.shields.io/badge/-ahaanrajesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahaanrajesh@gmail.com)](mailto:ahaanrajesh@gmail.com)
 
+##
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahaan-R&hide=TeX&layout=compact)
 
-
+##
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
