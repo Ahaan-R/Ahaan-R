@@ -12,7 +12,7 @@ I am Ahaan Rajesh, currently pursuing my Master's degree majoring in Computer Sc
 const Ahaan = {
   pronouns: "He" | "His",
   code: [Java, Python, Android, Javascript, HTML, CSS, Flask],
-  Cloud Infrastructure: [AWS, IBM Cloud Foundry, Microsoft Azure],
+  CloudInfrastructure: [AWS, IBM Cloud Foundry, Microsoft Azure],
   Database: [MySQL, SQLite, MS SQL],
   tools: [Eclipse, IntelliJ, Git, Android Studio, PyCharm, Visual Studio],
  
