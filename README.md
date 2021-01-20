@@ -16,7 +16,8 @@ const Ahaan = {
   Database: [MySQL, SQLite, MS SQL],
   tools: [Eclipse, IntelliJ, Git, Android Studio, PyCharm, Visual Studio],
  
- Objective: "Motivated Software Developer with a passion to code, looking to achieve a challenging position that will be utilized towards continued growth and advancement."
+ Objective: "Motivated Software Developer with a passion to code, 
+             looking to achieve a challenging position that will be utilized towards continued growth and advancement."
 }
 ```
 
